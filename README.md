@@ -52,7 +52,7 @@ String apiKey = "Your_Api_Key";
  
 
 ## 🤓 Developer(s)
-**Archana Kumaraswamy**
-**Shiyani Kirupakaran**
+**Archana Kumaraswamy**,
+**Shiyani Kirupakaran**,
 **Sajithan Krishnarajah**
 
