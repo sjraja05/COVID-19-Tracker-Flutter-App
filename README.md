@@ -1,21 +1,8 @@
-# tojuwa
-
+# COVID-19-Tracker
 Corona tracker application with news updates and helplines built with flutter
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-success.svg?style=flat-square)](https://github.com/Mastersam07/toju_wa/pulls)
-![GitHub contributors](https://img.shields.io/github/contributors/mastersam07/toju_wa?color=success&style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/mastersam07/toju_wa?style=flat-square)
-[![License](https://img.shields.io/badge/license-MIT-success.svg?style=flat-square)](https://github.com/Mastersam07/toju_wa/blob/stable/LICENSE)
-
 > This app is in its first version
->> Check the <a href="https://github.com/Mastersam07/toju_wa/releases">release page</a>
->
 
-## Demo
-Download the `app-release.apk`
-<br>
-<a href="https://github.com/Mastersam07/toju_wa/releases/download/v1.0/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
-<br>
 
 ## 💻 Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
@@ -33,20 +20,6 @@ Download the `app-release.apk`
 - [x] Helpline
 
 
-## 📸 ScreenShots
-
-
-|<img src="ss/updated.png" width="250">|<img src="ss/2.png" width="250">|
-|<img src="ss/3.png" width="250">|<img src="ss/4.png" width="250">|
-|<img src="ss/updatedhelp.png" width="250">|<img src="ss/6.png" width="250">|
-
-## 🔌 Plugins
-| Name | Usage |
-|------|-------|
-|[**Http**](https://pub.dev/packages/http)| Api Calls|
-|[**Cached Network Image**](https://pub.dev/packages/cached_network_image)| To display images from web|
-|[**Webview Flutter**](https://pub.dev/packages/webview_flutter)| Display news in webview|
-
 ## Dependencies
 * [Flutter](https://flutter.dev/)
 
@@ -57,8 +30,8 @@ Download the `app-release.apk`
 #### 2. Clone the repo
 
 ```sh
-$ git clone https://github.com/Mastersam07/toju_wa.git
-$ cd toju_wa/
+$ git clone https://github.com/sjraja05/COVID-19-Tracker-Flutter-App
+$ cd COVID-19-Tracker-Flutter-App/
 ```
 
 #### 3. Get your open news api key
@@ -77,11 +50,9 @@ String apiKey = "Your_Api_Key";
  - [ ] Cache Api response
  - [ ] Darkmode
  
-## 🐛 Bugs/Request
-#### Encounter any problem(s)? feel free to open an issue. If you feel you could make something better, please raise a ticket on Github and I'll look into it. Pull request are also welcome.
-
-## ⭐️ License
-#### <a href="https://github.com/Mastersam07/toju_wa/blob/master/LICENSE">MIT LICENSE</a>
 
 ## 🤓 Developer(s)
-**Abada Samuel Oghenero**
+**Archana Kumaraswamy**
+**Shiyani Kirupakaran**
+**Sajithan Krishnarajah**
+
